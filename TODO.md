@@ -1,1 +1,0 @@
-- Convert PNG logos to SVG.
