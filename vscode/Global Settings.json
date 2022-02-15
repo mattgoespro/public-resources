@@ -1,5 +1,4 @@
 {
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
   "editor.bracketPairColorization.enabled": true,
@@ -92,5 +91,6 @@
     "no-inline-html": false
   },
   "redhat.telemetry.enabled": false,
-  "editor.foldingMaximumRegions": 50000
+  "editor.foldingMaximumRegions": 50000,
+  "editor.linkedEditing": true
 }

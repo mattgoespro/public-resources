@@ -8,7 +8,7 @@
     }
   },
   {
-    "key": "ctrl+alt+.",
+    "key": "ctrl+shift+enter",
     "command": "editor.emmet.action.wrapWithAbbreviation"
   }
 ]
